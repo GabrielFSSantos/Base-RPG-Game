@@ -1,7 +1,7 @@
 
 # Open Source Base_RPG_Game
 ![Developer](https://img.shields.io/badge/GabrielFSSantos-Base__RPG__Game-blue)
-[![licence mit](https://img.shields.io/github/license/GabrielFSSantos/Base_RPG_Game)](https://github.com/GabrielFSSantos/Base_RPG_Game/blob/master/LICENSE.md)
+[![licence mit](https://img.shields.io/github/license/GabrielFSSantos/Base_RPG_Game)](https://github.com/GabrielFSSantos/TypeScript/blob/master/LICENSE)
 
 > :video_game: Base_RPG_Game é um código aberto de uma base de um game de RPG, contendo mapas, inimigos, classes e habilidades diferentes, ele é totalmente funcional, e as escolhas são feitas pelo console. O game foi desenvolvido como base para ser utilizada para outros projetos.  <br>
 
@@ -21,7 +21,7 @@
 * [StackEdit] - Excelente editor de Markdown online.
 
 ## License
-[MIT License](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md) ©
+[MIT License](https://github.com/GabrielFSSantos/TypeScript/blob/master/LICENSE)
 
 
 
